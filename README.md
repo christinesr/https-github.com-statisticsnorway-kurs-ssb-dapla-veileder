@@ -10,3 +10,5 @@ For nye brukere av JupyterLab anbefales det å starte med hvordan [navigere i Ju
 
 ### Bidragsytere
 Dagens versjon av veilederen er skrevet av produksjonsteamet *personskatt* som i 2020 har bygd deler av produksjonsløpet for *skattestatistikken for personer* i Dapla. På sikt er det ønskelig at andre statistikkprodusenter bidrar i å utvikle veilederen med eksempler fra egen statistikk. 
+
+Test
