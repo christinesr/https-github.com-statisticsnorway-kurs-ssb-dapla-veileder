@@ -9,4 +9,4 @@ Veilederen utvikles kontiurelig etter behov av **brukerne** av Dapla, i takt med
 For nye brukere av JupyterLab anbefales det å starte med hvordan [navigere i JupyterLab](notebooks/Introduksjon%20til%20Dapla,%20JupyterLab%20og%20GitHub/Navigering.ipynb). Deretter se på [innhold i veilederen](notebooks/Innhold%20i%20veilederen.ipynb) for å utforske innholdet.
 
 ### Bidragsytere
-Dagens versjon av veilederen er skrevet av produksjonsteamet *personskatt* som i 2020 har bygd deler av produksjonsløpet for *skattestatistikken for personer* i Dapla. På sikt er det ønskelig at andre statistikkprodusenter bidrar i å utvikle veilederen med eksempler fra egen statistikk.
+Dagens versjon av veilederen er skrevet av produksjonsteamet *personskatt* som i 2020 har bygd deler av produksjonsløpet for *skattestatistikken for personer* i Dapla. På sikt er det ønskelig at andre statistikkprodusenter bidrar i å utvikle veilederen med eksempler fra egen statistikk. 
