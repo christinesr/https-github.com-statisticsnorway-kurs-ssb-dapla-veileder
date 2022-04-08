@@ -1,5 +1,5 @@
 import os
-from IPython.core.display import display, HTML, Markdown
+from IPython.display import display, HTML, Markdown
 from IPython.display import clear_output
 from ipywidgets import interact, widgets
 
